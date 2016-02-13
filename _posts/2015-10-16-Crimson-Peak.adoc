@@ -4,7 +4,7 @@
 :hp-tags: 2015
 :hardbreaks:
 
-![](https://cloud.githubusercontent.com/assets/457514/12978280/0676e160-d10b-11e5-8f78-6a7f57643d03.jpg)
+image::https://cloud.githubusercontent.com/assets/457514/12978280/0676e160-d10b-11e5-8f78-6a7f57643d03.jpg[]
 
 == 猩红山峰 Crimson Peak (2015)
 
